@@ -12,7 +12,7 @@
 
 * 利用智谱清言官方api搭建的自用api
 
-* 官方接口地址：https://open.bigmodel.cn/dev/api#glm-4
+* 官方接口文档地址：https://open.bigmodel.cn/dev/api#glm-4
 
 ### 4) 请求参数:
 
